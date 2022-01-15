@@ -1,0 +1,5 @@
+{
+    "require": {
+      "symfony/flex": "~1.1"
+    }
+  }
